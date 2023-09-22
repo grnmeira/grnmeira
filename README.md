@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I’m currently working on...
+  - The webex-rust crate.
+  - FMA, a replica of Lander written in Rust (for the funs of it).
+  - HTTPeeker, a CLI proxy that helps with HTTPS/Websocket debugging.
+
+
 <!--
 **grnmeira/grnmeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
