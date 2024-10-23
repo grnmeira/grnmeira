@@ -10,7 +10,7 @@ Hello 👋, I'm Gustavo, a systems programmer working on Open Source.
   - Envoy Proxy
   - LSP for Envoy configuration
   - Some random stuff too?
-- 🌱 My interests (this probably already out of date):
+- 🌱 My interests (this probably's already out of date):
   - Computer Networks
   - Cloud Native Applications
   - Pizza
