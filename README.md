@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-Hello 👋, I'm Gustavo, a systems programmer working with Open Source.
+Hello 👋, I'm Gustavo, a systems programmer working on Open Source.
 
 - 🔭 I’m currently working on...
   - Envoy Proxy
